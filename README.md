@@ -11,8 +11,7 @@ Hi there! I'm a passionate full-stack developer specializing in Laravel. I thriv
 - **🖥️ Backend:** Laravel, PHP
 - **🎨 Frontend:** HTML, CSS, JavaScript, Vue.js/React
 - **☁️ Cloud:** Amazon Web Services (EC2, S3, RDS, etc.)
-- **🔗 Real-Time Systems:** WebSockets, Socket.io, Ratchet
-- **🛠️ Tools & DevOps:** Git, Docker, Nginx/Apache
+- **🛠️ Tools & DevOps:** Git, Nginx/Apache
 - **📱 Mobile Integration:** APIs for Flutter Applications
 
 ---
